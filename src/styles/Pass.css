@@ -1,0 +1,65 @@
+#target
+{
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 10px;
+    color: black;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border-right: 0;
+    padding-left: 10px;;
+}
+.main
+{
+    padding:20px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.825);
+    margin: auto;
+    width: 100vw;;
+    height: 100vh;
+}
+#slider
+{
+    margin-right:20px;
+}
+span
+{
+    margin:20px;
+}
+.check
+{
+    width: 20px;
+    height: 20px;
+}
+.bottom
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cointainer
+{   
+    margin: 100px 150px;
+    padding: 40px;
+    color:white;
+}
+.copyButton
+{
+    border: 2px solid black;
+    width: 70px;
+    background-color: blue;
+    border-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;;
+}
+.upper
+{
+    margin-top: 30px;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#heading
+{
+    font-size:xx-large;
+}
