@@ -42,7 +42,7 @@ const PasswordGenerator = () =>
                 <input id='target' type="text" readOnly value={pass}/>
                 <button className='copyButton' onClick={()=>
                 {   
-                    let copyText=document.querySelector('#target');
+                     let copyText=document.querySelector('#target');
                     copyText.select();
                     document.execCommand("copy");
                 }}>Copy</button>
